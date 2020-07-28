@@ -1,4 +1,4 @@
-var aContact= new Contact("Brampton, ON, Canada","contact@eranmol.com","‭(519) 691-0039‬"," Production Engineer "," A.L.Coldforge Pvt. Ltd.","Mechanical Engineer")
+var aContact= new Contact("Brampton, ON, Canada","contact@eranmol.com","‭(519) 691-0039‬"," Setup Mechanic "," Jones Healthcare Group.","Mechanical Engineer")
 function Contact(aAddress, aEmail, aNumber, aPosition, aCompany, aTitle)
 	{
 		this.address = aAddress;
